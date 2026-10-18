@@ -66,6 +66,11 @@ I believe in thinking independently, learning through action, and improving with
 </div>
 
 <br/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=50&text=04%20%2F%2F%20SELECTED%20WORKS&fontSize=21&fontColor=60A5FA&fontAlignY=60" width="100%" alt="04 — Selected Works" />
+
+</div>
 
 <div align="center">
 

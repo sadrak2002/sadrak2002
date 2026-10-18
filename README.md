@@ -69,25 +69,9 @@ I believe in thinking independently, learning through action, and improving with
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=50&text=04%20%2F%2F%20SELECTED%20WORKS&fontSize=21&fontColor=60A5FA&fontAlignY=60" width="100%" alt="04 — Selected Works" />
-
-</div>
-
-<div align="center">
-
 <a href="https://github.com/sadrak2002/exa-search-engine">
-  <img src="https://img.shields.io/badge/EXA_SEARCH_ENGINE-View_Project-101D36?style=for-the-badge&logo=github&logoColor=60A5FA&labelColor=070B14" alt="Exa Search Engine — View Project" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadrak2002&repo=exa-search-engine&hide_border=true&bg_color=070B14&title_color=60A5FA&text_color=DCEBFF&icon_color=60A5FA" width="495" alt="Exa Search Engine project card" />
 </a>
-
-<br/>
-
-<strong>Exa Search Engine</strong>
-
-<p>A Python project exploring web search through the Exa API.</p>
-
-<p>
-  <code>Python</code> · <code>API Integration</code> · <code>Web Search</code>
-</p>
 
 </div>
 

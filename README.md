@@ -115,4 +115,6 @@ Learning backend engineering and building web applications.
 
 <sub>SΛDRA · Personal growth · Software engineering · DEVORA</sub>
 
+![GitHub Contribution Snake](https://raw.githubusercontent.com/sadrak2002/sadrak2002/output/github-contribution-grid-snake.svg)
+
 </div>

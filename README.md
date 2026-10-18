@@ -73,6 +73,24 @@ I believe in thinking independently, learning through action, and improving with
 
 </div>
 
+<div align="center">
+
+<a href="https://github.com/sadrak2002/exa-search-engine">
+  <img src="https://img.shields.io/badge/EXA_SEARCH_ENGINE-View_Project-101D36?style=for-the-badge&logo=github&logoColor=60A5FA&labelColor=070B14" alt="Exa Search Engine — View Project" />
+</a>
+
+<br/>
+
+<strong>Exa Search Engine</strong>
+
+<p>A Python project exploring web search through the Exa API.</p>
+
+<p>
+  <code>Python</code> · <code>API Integration</code> · <code>Web Search</code>
+</p>
+
+</div>
+
 ### Python GIF Maker
 
 A Python project focused on image processing and GIF creation.
